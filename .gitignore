@@ -1,1 +1,10 @@
 .gitignore
+.Rhistory
+*.Rproj
+LICENCE
+Data/*
+Info/*
+Biblio/*
+Test/*
+Figs/*
+.Rproj.user
